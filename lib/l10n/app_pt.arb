@@ -1,0 +1,40 @@
+{
+  "@@locale": "pt",
+  "appTitle": "OneUnitEveryDay",
+  "activities": "Atividades",
+  "noActivitiesYet": "Ainda não há atividades",
+  "noActivitiesSubtitle": "Toque no + para criar sua primeira atividade",
+  "createActivity": "Criar Atividade",
+  "editActivity": "Editar Atividade",
+  "deleteActivity": "Excluir Atividade",
+  "deleteActivityConfirmation": "Tem certeza que deseja excluir esta atividade? Todos os registros serão perdidos.",
+  "activityName": "Nome da atividade",
+  "activityNameRequired": "O nome é obrigatório",
+  "activityDescription": "Descrição (opcional)",
+  "save": "Salvar",
+  "cancel": "Cancelar",
+  "delete": "Excluir",
+  "completeToday": "Completar Hoje",
+  "completedToday": "Completo Hoje ✓",
+  "currentStreak": "Sequência Atual",
+  "streakDays": "{count, plural, =0{0 dias} =1{1 dia} other{{count} dias}}",
+  "@streakDays": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "calendar": "Calendário",
+  "timeline": "Linha do Tempo",
+  "completed": "Completo",
+  "notCompleted": "Não completo",
+  "today": "Hoje",
+  "yesterday": "Ontem",
+  "daily": "Diário",
+  "activityCreated": "Atividade criada com sucesso!",
+  "activityUpdated": "Atividade atualizada com sucesso!",
+  "activityDeleted": "Atividade excluída com sucesso!",
+  "activityCompleted": "Atividade completada! Continue assim!",
+  "description": "Descrição"
+}
